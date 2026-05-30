@@ -9,14 +9,11 @@ Portfolio de ejemplo  desarrollado en HTML5 , CSS y JS, creado para la asignatur
 1. Descarga o clona este repositorio.
 2. Abre el archivo index.html en tu navegador web.
 ## 🛠️ Estructura
-Css/
-Images/
 index.html
 README.md
 
 ## 🛠️ Tecnologías Utilizadas
 - HTML5
-- CSS3
 - JavaScript 
 
 ## 👤 Autor
